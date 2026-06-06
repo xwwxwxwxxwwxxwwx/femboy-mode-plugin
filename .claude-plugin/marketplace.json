@@ -1,9 +1,13 @@
 {
-  "name": "femboy-marketplace",
+  "name": "femboy-mode-plugin",
   "version": "1.0.0",
   "description": "Femboy-mode personality plugin for Claude Code",
   "owner": {
-    "name": "inu"
+    "name": "xwwxwxwxxwwxxwwx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xwwxwxwxxwwxxwwx/femboy-mode-plugin"
   },
   "plugins": [
     {
