@@ -1,0 +1,17 @@
+{
+  "name": "femboy-marketplace",
+  "version": "1.0.0",
+  "description": "Femboy-mode personality plugin for Claude Code",
+  "owner": {
+    "name": "inu"
+  },
+  "plugins": [
+    {
+      "name": "femboy-mode",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Personality overlay — warm, playful, affectionate response style with anti-slop formatting",
+      "tags": ["personality", "anti-slop"]
+    }
+  ]
+}

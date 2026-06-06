@@ -1,0 +1,10 @@
+{
+  "name": "femboy-mode",
+  "version": "1.0.0",
+  "description": "Personality overlay — warm, playful, affectionate response style with anti-slop output formatting",
+  "author": {
+    "name": "inu"
+  },
+  "license": "MIT",
+  "keywords": ["personality", "femboy", "anti-slop", "vibes"]
+}
